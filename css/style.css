@@ -42,3 +42,11 @@
 .step [class *="col"] {
     height: 40px;
 }
+
+.nested [class *="col"] {
+    height: 40px;
+}
+
+.margin{
+    margin-right: 1px;
+}

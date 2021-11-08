@@ -34,3 +34,11 @@
 .row .special .border-sp:last-child {
     border-right: none;
 }
+
+.second-step {
+    margin-top: 10px;
+}
+
+.second-step [class *="col"] {
+    height: 40px;
+}

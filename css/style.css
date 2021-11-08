@@ -12,7 +12,7 @@
     text-align: center;
 }
 
-.col-1 span{
+[class *="col"] span{
     line-height: 40px;
     vertical-align: middle;
     color: white;

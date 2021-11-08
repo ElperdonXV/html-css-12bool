@@ -35,10 +35,10 @@
     border-right: none;
 }
 
-.second-step {
+.step {
     margin-top: 10px;
 }
 
-.second-step [class *="col"] {
+.step [class *="col"] {
     height: 40px;
 }

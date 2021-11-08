@@ -8,7 +8,6 @@
 }
 
 [class *="col"] {
-    height: 40px;
     text-align: center;
 }
 
@@ -16,4 +15,22 @@
     line-height: 40px;
     vertical-align: middle;
     color: white;
+}
+
+.bg-lime{
+    background-color: yellowgreen;
+}
+
+[class *="row special"] {
+    padding: 8px;
+    height: auto;
+    text-align: center;
+}
+
+.border-sp{
+    border-right: 1px solid white;
+}
+
+.row .special .border-sp:last-child {
+    border-right: none;
 }

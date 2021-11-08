@@ -82,3 +82,11 @@
 .align-self-bottom{
     align-self: flex-end;
 }
+
+.space-ar{
+    justify-content: space-around;
+}
+
+.space-btw{
+    justify-content: space-between;
+}

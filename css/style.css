@@ -47,6 +47,38 @@
     height: 40px;
 }
 
-.margin{
-    margin-right: 1px;
+.flex-start{
+    justify-content: flex-start;
+}
+
+.flex-center{
+    justify-content: center;
+}
+
+.flex-end{
+    justify-content: flex-end;
+}
+
+.border-b{
+    border-bottom: 1px solid white;
+}
+
+.double{
+    height: 80px;
+}
+
+.border-l{
+    border-left: 1px solid white;
+}
+
+.half{
+    height: 50%;
+}
+
+.align-self-center{
+    align-self: center;
+}
+
+.align-self-bottom{
+    align-self: flex-end;
 }
